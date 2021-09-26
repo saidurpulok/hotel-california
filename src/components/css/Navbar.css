@@ -1,0 +1,22 @@
+.Navigation {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: grey;
+}
+
+.Dropdown {
+    margin-left: 0px;
+}
+
+.nav-link:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.active {
+    text-shadow: 1px 1px rgb(255, 255, 255);
+    color: grey;
+}
